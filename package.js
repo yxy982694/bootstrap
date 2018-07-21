@@ -1,4 +1,4 @@
-// package metadata file for Meteor.js
+// zhangsan package metadata file for Meteor.js
 
 /* eslint-env meteor */
 
